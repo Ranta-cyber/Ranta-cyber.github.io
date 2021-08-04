@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[AutoCongrats App]]></description><link>https://Ranta-cyber.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Aug 2021 10:16:30 GMT</lastBuildDate><item><title><![CDATA[Second Post]]></title><description><![CDATA[tämä on toinen post  lisätietoja..]]></description><link>https://Ranta-cyber.github.io/devblog/another-new-post/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/another-new-post/</guid><pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;tämä on toinen post&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Aug 2021 05:40:18 GMT</lastBuildDate><item><title><![CDATA[Second Post]]></title><description><![CDATA[tämä on toinen post  lisätietoja..]]></description><link>https://Ranta-cyber.github.io/devblog/another-new-post/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/another-new-post/</guid><pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;tämä on toinen post&lt;/p&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -23,70 +23,50 @@
     &lt;/span&gt;
   &lt;/span&gt;
   &lt;/p&gt;
-&lt;p&gt;lisätietoja..&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Tervetuloa blogiin!]]></title><description><![CDATA[Welcome to the new blog]]></description><link>https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the new blog&lt;/p&gt;
+&lt;p&gt;lisätietoja..&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AutoCongrats]]></title><description><![CDATA[Tämä on Autocongrats]]></description><link>https://Ranta-cyber.github.io/devblog/hello-world/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/hello-world/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Tämä on Autocongrats&lt;/p&gt;
 &lt;!-- end --&gt;
-&lt;h2&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/h2&gt;
-&lt;p&gt;Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Morbi sit amet turpis a purus&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Etiam tempor ultricies mi&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Maecenas auctor enim a volutpat mattis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Sed urna justo, scelerisque consectetur pharetra vitae&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Nam nec augue vel nisl placerat faucibus. Donec congue &lt;strong&gt;nulla quis nunc&lt;/strong&gt; sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at &lt;em&gt;augue aliquam sagittis&lt;/em&gt;. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.&lt;/p&gt;
-&lt;h3&gt;Bold ja isolla tekstiä&lt;/h3&gt;
-&lt;p&gt;Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus &lt;a href=&quot;https://google.com&quot;&gt;elementum dapibus nibh&lt;/a&gt;, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Korostettua tekstiä&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.&lt;/p&gt;
-&lt;h3&gt;Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et&lt;/h3&gt;
-&lt;p&gt;Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Morbi posuere facilisis&lt;/li&gt;
-&lt;li&gt;Pellentesque habitant morbi tristique&lt;/li&gt;
-&lt;li&gt;Etiam malesuada dapibus&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.&lt;/p&gt;
-&lt;h4&gt;Sed ac orci a dolor venenatis vulputate&lt;/h4&gt;
-&lt;p&gt;Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.&lt;/p&gt;
+&lt;p&gt;Lisätietoja…&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;huomio teksti&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;lisää infoa&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. You can see what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. You can see what the App offer to you!&lt;/p&gt;
+&lt;!-- end --&gt;
+&lt;h2&gt;AutoCongrats helps you to congrats your contacts&lt;/h2&gt;
+&lt;p&gt;You can congratulate your friends having a name day or birthday in a care free way. &lt;/p&gt;
+&lt;p&gt;Application checks from your contacts if any persons is having a name day or birthday. &lt;/p&gt;
+&lt;p&gt;You can set application to remind you and form congratulatory message for you, then you just need to push the button to send the message.&lt;/p&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 603px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 53.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgb/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAbqy4xnh8NP/xAAbEAEAAgIDAAAAAAAAAAAAAAABAgMABBEhMf/aAAgBAQABBQKMa7C7XY53lK8viC//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AdKh/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQIBAT8Bo//EABsQAAIBBQAAAAAAAAAAAAAAAAARASAhIjJx/9oACAEBAAY/AtFwwl0XP//EABsQAAMAAgMAAAAAAAAAAAAAAAABESFBMWHB/9oACAEBAAE/IdyO0Mh6Bw4bzkdu2PTSs//aAAwDAQACAAMAAAAQ1O//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EBDj20v/xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QbUp//8QAHBABAAICAwEAAAAAAAAAAAAAAQARMVEhQWGh/9oACAEBAAE/EFavag+3LBlM9A17G5LZuELfo+wwlqPMIrguf//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAArABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAYFAf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAbbay4rsCS5UqpQNSJGQjwvO+aYzIf/EACIQAAICAAQHAAAAAAAAAAAAAAIDAQQAEhMUEBEiMjM0Qf/aAAgBAQABBQI2nu2HIiPa8Z12QfKv4WNEGbtY4CYIbHVZYGWK3rkK5bpJnAZAH5w//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMRD/2gAIAQMBAT8BUWj3tKf/xAAcEQABAwUAAAAAAAAAAAAAAAAAAhETARASITH/2gAIAQIBAT8BW6l0x4M2rxER/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQACERIhMQNRYRAgIjKR/9oACAEBAAY/AhpD1VQPSoAq7bbIWjhXqsFhyBGFTvCMYmE1VeGMygDRA5QaHN+9n//EACEQAQACAgEDBQAAAAAAAAAAAAEAESExURBhcZGhseHx/9oACAEBAAE/IbQBs47TAhkuyNQqLyQGa4pNahzchySep/DMeVTRRqNB3Z39zwkpm3hYuC7z2s2qXZl8xCFJg/URSBxDr1//2gAMAwEAAgADAAAAELPicgMP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERMRBBYf/aAAgBAwEBPxB4U8N80WCoeb//xAAbEQACAgMBAAAAAAAAAAAAAAABEQAhEEFRcf/aAAgBAgEBPxBcogB9dmNcWoSScIdxOz//xAAeEAEAAwACAwEBAAAAAAAAAAABABEhMVFBYZFxsf/aAAgBAQABPxB1AhiVNcwJhhoq+fOxFaPQy3W7AtVSvU0ZC1p52eWuwI6d7K1QJQV7fPMffEYDQ9xzQyvwZChoEH4S+y6S7Q5ndvX9YlYAG7YSs9I8CiCKvlgUB0AV75ZoKKFrIh0fI0tofJ//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Space&quot;
         title=&quot;&quot;
-        src=&quot;/blog/static/a36bdd86f732bc910b6582d29adae291/29d31/space.jpg&quot;
-        srcset=&quot;/blog/static/a36bdd86f732bc910b6582d29adae291/e52aa/space.jpg 175w,
-/blog/static/a36bdd86f732bc910b6582d29adae291/70ebb/space.jpg 350w,
-/blog/static/a36bdd86f732bc910b6582d29adae291/29d31/space.jpg 700w,
-/blog/static/a36bdd86f732bc910b6582d29adae291/4b190/space.jpg 800w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        src=&quot;/blog/static/4f63c4c43d0655fc5ff5cd0107537594/48d5f/kuva1.jpg&quot;
+        srcset=&quot;/blog/static/4f63c4c43d0655fc5ff5cd0107537594/e52aa/kuva1.jpg 175w,
+/blog/static/4f63c4c43d0655fc5ff5cd0107537594/70ebb/kuva1.jpg 350w,
+/blog/static/4f63c4c43d0655fc5ff5cd0107537594/48d5f/kuva1.jpg 603w&quot;
+        sizes=&quot;(max-width: 603px) 100vw, 603px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   &lt;/p&gt;
-&lt;p&gt;Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.&lt;/p&gt;
+&lt;p&gt;Chosen language affects how application can find persons having a name day. Also applications language is changed based on that.&lt;/p&gt;
+&lt;p&gt;You can choose if you want to see persons having a name day or/and birthday. &lt;/p&gt;
+&lt;p&gt;If you allow push notifications, you will receive a daily push notification as reminder on chosen time. &lt;/p&gt;
+&lt;p&gt;You can set default content of the congratulate message, however you can modify message before actually sending it. Set XXXX characters to place where you want person’s name.&lt;/p&gt;
+&lt;p&gt;You can set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
+&lt;h3&gt;Bold ja isolla tekstiä&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Korostettua tekstiä&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.&lt;/p&gt;
+&lt;h3&gt;Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et&lt;/h3&gt;
+&lt;h4&gt;Sed ac orci a dolor venenatis vulputate&lt;/h4&gt;
 &lt;h5&gt;Nulla nec dui vulputate, semper orci in, sagittis dolor&lt;/h5&gt;
-&lt;p&gt;Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;oma kappale
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h6&gt;ras aliquet ipsum ut enim pellentesque, id varius quam placerat&lt;/h6&gt;
-&lt;p&gt;Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique&lt;/p&gt;
-&lt;p&gt;Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AutoCongrats]]></title><description><![CDATA[Tämä on Autocongrats]]></description><link>https://Ranta-cyber.github.io/devblog/hello-world/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/hello-world/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Tämä on Autocongrats&lt;/p&gt;
-&lt;!-- end --&gt;
-&lt;p&gt;Lisätietoja…&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;huomio teksti&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;lisää infoa&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;h6&gt;ras aliquet ipsum ut enim pellentesque, id varius quam placerat&lt;/h6&gt;</content:encoded></item></channel></rss>
